@@ -1,0 +1,3 @@
+/Users/mahmudovseravgan/Documents/GitHub/Cpp-OOP-Projects/string/cmake-build-debug/CMakeFiles/string.dir
+/Users/mahmudovseravgan/Documents/GitHub/Cpp-OOP-Projects/string/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mahmudovseravgan/Documents/GitHub/Cpp-OOP-Projects/string/cmake-build-debug/CMakeFiles/rebuild_cache.dir
